@@ -1,7 +1,9 @@
 # Blend Style 
 
 In this project, I used two different images with different texture and style to combine with each other with the help of style transfering algorithm.
+I implemented the technique known as neural style transfer described in this research paper <a href="https://arxiv.org/abs/1508.06576" class="external">A Neural Algorithm of Artistic Style</a> (Gatys et al.). 
 
+In modern approaches, models are trained to generate stylized images directly, while traditional approaches optimize image content according to a particular style.
 
 ## Language
 The project is written in Python.
